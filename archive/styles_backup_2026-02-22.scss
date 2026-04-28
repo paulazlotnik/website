@@ -1,0 +1,205 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700&family=Source+Sans+3:wght@400;600&display=swap');
+
+:root {
+  --accent: #2563eb;
+  --accent-soft: #dbeafe;
+  --ink: #0b1b2b;
+  --muted: #4b5563;
+  --surface: #ffffff;
+}
+
+body {
+  font-family: 'Source Sans 3', 'Helvetica Neue', Arial, sans-serif;
+  color: var(--ink);
+  background: #ffffff;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: #0d5f59;
+}
+
+h1, h2, h3, h4, h5, h6, .navbar-brand {
+  font-family: 'Nunito', 'Helvetica Neue', Arial, sans-serif;
+  letter-spacing: 0;
+}
+
+.navbar {
+  background: #f3f4f6;
+}
+
+.navbar a {
+  font-weight: 600;
+}
+
+.page-title {
+  margin-bottom: 0.5rem;
+}
+
+.hero {
+  padding: 2.5rem;
+  border-radius: 16px;
+  background: var(--surface);
+  border: 2px solid var(--accent);
+  box-shadow: 0 4px 12px rgba(37, 99, 235, 0.1);
+}
+
+.hero p {
+  font-size: 1.05rem;
+  color: var(--muted);
+}
+
+.card-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  padding: 0;
+  list-style: none;
+}
+
+.card-list li {
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  padding: 1rem 1.2rem;
+  background: #ffffff;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.03);
+}
+
+blockquote {
+  border-left: 4px solid var(--accent);
+  padding-left: 1rem;
+  color: var(--muted);
+}
+
+.footer {
+  margin-top: 3rem;
+  padding: 1.5rem 0;
+  border-top: 1px solid #e5e7eb;
+  color: var(--muted);
+}
+
+/* Publication list styling */
+.publication-item {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2.5rem;
+  align-items: flex-start;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.publication-item:last-child {
+  border-bottom: none;
+}
+
+.publication-image {
+  position: relative;
+  flex-shrink: 0;
+  width: 180px;
+  height: 180px;
+  background-color: #eef6ff;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  border: 1px solid #e5e7eb;
+  overflow: hidden;
+}
+
+.publication-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+.publication-image::after {
+  content: attr(data-label);
+  position: absolute;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  color: #0b1b2b;
+  letter-spacing: 0.02em;
+}
+
+.publication-content {
+  flex: 1;
+}
+
+.publication-content h3 {
+  margin-top: 0;
+  margin-bottom: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.publication-content p {
+  margin-bottom: 0.8rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+/* Portrait image on bio page */
+.column img {
+  width: 160px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  display: block;
+}
+
+/* Banner SVG styling - separated from content */
+main img[src*="banner.svg"] {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.banner-hero {
+  position: relative;
+  margin: 0 0 2rem 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.banner-hero img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.banner-title {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 1.5rem;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.18) 0%, rgba(0, 0, 0, 0.35) 100%);
+}
+
+.banner-heading {
+  margin: 0;
+  color: #ffffff;
+  font-size: clamp(1.8rem, 3vw, 2.6rem);
+  letter-spacing: 0.5px;
+  text-shadow: 0 6px 18px rgba(0, 0, 0, 0.3);
+  font-weight: 700;
+}
+
+/* Hide default Quarto title block so headings only appear in banner overlay */
+.quarto-title-block {
+  display: none;
+}
+
+/* Columns layout with overlap */
+.columns {
+  position: relative;
+  z-index: 1;
+}

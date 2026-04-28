@@ -1,0 +1,36 @@
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#eef6ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#dbeafe;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="blueYellow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#facc15;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="1200" height="300" fill="url(#bgGrad)"/>
+  
+  <!-- Flowing curved lines in different directions -->
+  <!-- Blue flows (large, sweeping curves) -->
+  <path d="M -40 120 C 220 30 520 210 860 130 C 1040 90 1230 150 1240 110" stroke="#2563eb" stroke-width="34" fill="none" opacity="0.28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M -10 200 C 200 250 520 80 900 190 C 1100 240 1260 120 1210 200" stroke="#2563eb" stroke-width="28" fill="none" opacity="0.24" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Yellow flows (large opposing curves) -->
+  <path d="M 1240 90 C 990 10 720 220 420 130 C 210 80 20 190 -20 150" stroke="#facc15" stroke-width="34" fill="none" opacity="0.28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 1260 220 C 990 260 670 90 360 230 C 160 300 -10 150 -40 230" stroke="#facc15" stroke-width="28" fill="none" opacity="0.24" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Blue flow (bottom-up diagonal) -->
+  <path d="M 180 300 C 360 220 640 230 860 140 C 1040 70 1220 40 1280 110" stroke="#2563eb" stroke-width="24" fill="none" opacity="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Yellow flow (top-down diagonal) -->
+  <path d="M 1020 10 C 780 120 520 90 320 200 C 140 290 -40 320 -60 230" stroke="#facc15" stroke-width="24" fill="none" opacity="0.22" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Removed central spiral for cleaner field -->
+  
+  <!-- Additional flowing elements -->
+  <path d="M 0 210 C 220 150 480 240 700 170 C 920 110 1120 150 1240 220" stroke="#2563eb" stroke-width="18" fill="none" opacity="0.14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M 1240 120 C 1020 200 800 100 600 170 C 380 240 150 140 -40 180" stroke="#facc15" stroke-width="18" fill="none" opacity="0.14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

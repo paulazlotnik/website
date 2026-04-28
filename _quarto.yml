@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Paula Hoffmeyer-Zlotnik"
+  description: "Assistant Professor, Sciences Po Paris"
+  navbar:
+    left:
+      - text: "Bio"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Teaching"
+        href: teaching.qmd
+      - text: "Migration Policy"
+        href: migration-policy.qmd
+    right:
+      - icon: envelope
+        href: mailto:paula.hoffmeyerzlotnik@sciencespo.fr
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=T5tODPIAAAAJ
+      - icon: linkedin
+        href: https://www.linkedin.com/in/paula-hoffmeyer-zlotnik-0102933a/?originalSubdomain=fr
+      - icon: twitter
+        href: https://bsky.app/profile/pzlotnik.bsky.social
+  page-navigation: true
+  search: true
+
+format:
+  html:
+    theme: cosmo
+    css: styles.scss
+    toc: false  # Set to true to reactivate side navigation
+    # toc-expand: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-body: 
+      - text: |
+          <script src="lightbox.js"></script>
+    grid:
+      body-width: 960px
+      margin-width: 280px
+
+editor: visual

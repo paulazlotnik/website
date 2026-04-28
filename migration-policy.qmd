@@ -1,0 +1,36 @@
+---
+title: "Asylum and Migration Policy"
+page-layout: article
+---
+
+<div class="hero-plain">
+	<div class="hero-inner">
+		<div class="hero-title">Asylum and Migration Policy</div>
+		<p class="hero-sub">Policy-relevant work, reports, and publications on asylum and migration governance.</p>
+	</div>
+</div>
+
+**Next to my academic work, I occasionally contribute to or organise publications and events that inform policy-makers and broader audiences about migration research and current practices.** Between 2021 and 2024, I was the National Expert for Germany for the [Asylum Information Database](https://asylumineurope.org/). The Database is managed by the European Council on Refugees and Exiles (ECRE) and provides up-to-date information on asylum policy, law, and practice for researchers, advocates, legal practitioners, and the public. Before starting my PhD, I worked as a Research Associate for the European Migration Network, co-authoring studies on various aspects of migration and asylum policy in Germany.
+
+## AIDA Country Reports
+
+- [AIDA Country Report Germany 2023](https://asylumineurope.org/reports/country/germany/) – with Teresa Fachinger and Marlene Stiller.
+- [AIDA Country Report Germany 2022](https://asylumineurope.org/wp-content/uploads/2023/04/AIDA-DE_2022update.pdf) – with Marlene Stiller.
+- [AIDA Country Report Germany 2021](https://asylumineurope.org/wp-content/uploads/2022/04/AIDA-DE_2021update.pdf).
+
+## Policy Publications
+
+- Judith Kohlenberger, Paula Hoffmeyer-Zlotnik, Lena Laube, Bernd Parusel and Daniele Saracino (2025). [Instrumentalisation of migration: Europe needs a strong and lawful response](https://www.delorscentre.eu/en/publications/detail/publication/instrumentalisation-of-migration). Policy Brief, Jacques Delors Centre. [Deutsche Version](https://www.delorscentre.eu/de/publikationen/detail/publication/instrumentalisierung-von-migration).
+- Lavenex, Sandra, Mariana Alvarado, Paula Hoffmeyer-Zlotnik, and Philipp Lutz (2025). ["Business Mobility as a Privileged Form of Temporary Labour Migration: Insights from the MITA Database and Switzerland."](https://doi.org/10.54394/TGOF6029) In *Temporary Labour Migration: Towards Social Justice?* International Labour Organization.
+
+## Reports and expertise for the EU and international organizations
+
+- [The interaction between EU trade commitments and immigration rules in EU Member States](https://repository.ubn.ru.nl/handle/2066/246746) (National Expert for Germany, with Sandra Lavenex).
+- Parliamentary Assembly of the Council of Europe: Exchange of views on missing refugee and migrant children in Europe ([Report](https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTML-en.asp?fileid=28308&lang=en)).
+
+## Studies for the European Migration Network
+
+- Hoffmeyer-Zlotnik, Paula/Grote, Janne (2019). [Attracting and retaining international students in Germany.](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp85-internationale-studierende.html?nn=282022) Working Paper 85, Research Centre of the Federal Office for Migration and Refugees. [Deutsche Version](https://www.bamf.de/SharedDocs/Anlagen/DE/EMN/Studien/wp85-internationale-studierende.html).
+- Hoffmeyer-Zlotnik, Paula (2019). [Developments in Germany in the context of visa liberalisation.](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp83-visaliberalisierung.html?nn=282022) Working Paper 83, Research Centre of the Federal Office for Migration and Refugees. [Deutsche Version](https://www.bamf.de/SharedDocs/Anlagen/DE/EMN/Studien/wp83-visaliberalisierung.html).
+- Tangermann, Julian/Hoffmeyer-Zlotnik, Paula (2018). [Unaccompanied Minors in Germany. Challenges and Measures after the Clarification of Residence Status.](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp80-unbegleitete-minderjaehrige.html?nn=282022) Working Paper 80, Research Centre of the Federal Office for Migration and Refugees. [Deutsche Version](https://www.bamf.de/SharedDocs/Anlagen/DE/EMN/Studien/wp80-unbegleitete-minderjaehrige.html?nn=282022).
+- Hoffmeyer-Zlotnik, Paula (2017). [Return Policy in Germany in the Context of EU Rules and Standards.](https://www.bamf.de/SharedDocs/Anlagen/EN/EMN/Studien/wp77-emn-rueckkehrrichtlinie.pdf?__blob=publicationFile&v=15) Working Paper 77, Research Centre of the Federal Office for Migration and Refugees. [Deutsche Version](https://www.bamf.de/SharedDocs/Anlagen/DE/EMN/Studien/wp77-emn-rueckkehrrichtlinie.html?nn=282022).
