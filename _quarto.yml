@@ -2,8 +2,12 @@ project:
   type: website
   output-dir: _site
 
+resources:
+  - CNAME
+
 website:
   title: "Paula Hoffmeyer-Zlotnik"
+  site-url: https://www.paulahoffmeyerzlotnik.eu
   description: "Assistant Professor, Sciences Po Paris"
   navbar:
     left:

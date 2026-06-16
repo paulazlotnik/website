@@ -3,40 +3,32 @@ title: "Teaching"
 page-layout: article
 ---
 
-<div class="hero-plain">
-	<div class="hero-inner">
-		<div class="hero-title">Teaching</div>
-		<p class="hero-sub">Courses and supervision on EU policy-making, migration policy, and comparative politics.</p>
-	</div>
-</div>
 
-**I teach classes and supervise BA- and MA-theses on EU policy-making, migration policies, and comparative politics.**
+## Academic Year 2025/26
 
-## Winter Term 2024/25
+- Winter Term 2025: [Comparative Politics] (https://politics.uni-koeln.de/sites/politik/Aktuelles/Veranstaltungen/2024_Bericht_Studienreise_nach_Bruessel.pdf), Undergraduate Lecture, Sciences Po Paris
+- Spring Term 2026: [The Policies and Politics of Migration](https://politics.uni-koeln.de/sites/politik/Aktuelles/Veranstaltungen/2024_Bericht_Studienreise_nach_Bruessel.pdf), Graduate Seminar, Sciences Po Paris
+- Spring Term 2026: Atelier de Recherche, Graduate Seminar, Sciences Po Paris
 
-- [Comparing European Democracies](https://drive.google.com/file/d/13N-xnWEbG04q7Pdb0UMZ7j1GIBNBx9nE/view?usp=sharing), Graduate Seminar, University of Cologne.
-- [Institutional Reform of the European Union](https://drive.google.com/file/d/1CliGTVwevni443D3gAvLwT5VnUPUce-q/view?usp=sharing), Graduate Seminar, University of Cologne.
+## Academic Year 2024/25
 
-## Summer Term 2024
+- Winter Term 2024/25: [Comparing European Democracies](https://drive.google.com/file/d/13N-xnWEbG04q7Pdb0UMZ7j1GIBNBx9nE/view?usp=sharing), Graduate Seminar, University of Cologne.
+- Winter Term 2024/25: [Institutional Reform of the European Union](https://drive.google.com/file/d/1CliGTVwevni443D3gAvLwT5VnUPUce-q/view?usp=sharing), Graduate Seminar, University of Cologne.
+- Summer Term 2024: [Policy-Making in the European Union](https://drive.google.com/file/d/1tSnacB1L7JJwCug24R4fPxqT0cDP8IiC/view?usp=sharing), Graduate Seminar with ([field trip](https://politics.uni-koeln.de/sites/politik/Aktuelles/Veranstaltungen/2024_Bericht_Studienreise_nach_Bruessel.pdf)), University of Cologne.
 
-- [Policy-Making in the European Union](https://drive.google.com/file/d/1tSnacB1L7JJwCug24R4fPxqT0cDP8IiC/view?usp=sharing), Graduate Seminar ([field trip](https://politik.uni-koeln.de/de/aktuelles/einzelansicht/study-trip-to-brussels-as-part-of-the-masters-seminar-policy-making-in-the-european-union)), University of Cologne.
+## Academic Year 2022/23
 
-## Summer Term 2023
+- Summer Term 2023: [Migrationspolitik in Europa](https://drive.google.com/file/d/1P5bLVXvP48SqJ3Hvn-B-jTxQhc3zmWgY/view?usp=sharing) (Migration Policies and Politics in Europe), Undergraduate Seminar, University of Cologne.
+- Winter Term 2022/23: Comparing European Democracies, Graduate Seminar, University of Cologne.
 
-- [Migrationspolitik in Europa](https://drive.google.com/file/d/1P5bLVXvP48SqJ3Hvn-B-jTxQhc3zmWgY/view?usp=sharing) (Migration Policies and Politics in Europe), Undergraduate Seminar, University of Cologne.
+## Academic Year 2021/22
 
-## Winter Term 2022/23
+- Spring Term 2022: Coopération Internationale, Undergraduate tutorial, University of Geneva.
 
-- Comparing European Democracies, Graduate Seminar, University of Cologne.
+## Academic Year 2019/20
 
-## Spring Term 2022
+- Spring Term 2020: [Gouvernance internationale des migrations](https://drive.google.com/file/d/1DzeASkoNppT6__Ny5TVYjwc-y0A45zsb/view?usp=sharing) (International Migration Governance), Undergraduate Seminar, University of Geneva.
 
-- Coopération Internationale, Undergraduate tutorial, University of Geneva.
+## Academic Years 2018/19 and 2017/18
 
-## Spring Term 2020
-
-- [Gouvernance internationale des migrations](https://drive.google.com/file/d/1DzeASkoNppT6__Ny5TVYjwc-y0A45zsb/view?usp=sharing) (International Migration Governance), Undergraduate Seminar, University of Geneva.
-
-## Winter Terms 2018/19 and 2017/18
-
-- Asyl- und Rückkehrpolitik in Deutschland und Europa (Asylum and Return Policy in Germany and Europe), University of Munich.
+- Winter Terms 2018/19 and 2017/18: Asyl- und Rückkehrpolitik in Deutschland und Europa (Asylum and Return Policy in Germany and Europe), University of Munich.
