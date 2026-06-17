@@ -3,12 +3,7 @@ title: "Asylum and Migration Policy"
 page-layout: article
 ---
 
-<div class="hero-plain">
-	<div class="hero-inner">
-		<div class="hero-title">Asylum and Migration Policy</div>
-		<p class="hero-sub">Policy-relevant work, reports, and publications on asylum and migration governance.</p>
-	</div>
-</div>
+
 
 **Next to my academic work, I occasionally contribute to or organise publications and events that inform policy-makers and broader audiences about migration research and current practices.** Between 2021 and 2024, I was the National Expert for Germany for the [Asylum Information Database](https://asylumineurope.org/). The Database is managed by the European Council on Refugees and Exiles (ECRE) and provides up-to-date information on asylum policy, law, and practice for researchers, advocates, legal practitioners, and the public. Before starting my PhD, I worked as a Research Associate for the European Migration Network, co-authoring studies on various aspects of migration and asylum policy in Germany.
 
