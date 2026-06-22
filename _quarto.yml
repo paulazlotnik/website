@@ -34,7 +34,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.scss
+    css: styles.css
     toc: false  # Set to true to reactivate side navigation
     # toc-expand: true
     smooth-scroll: true
