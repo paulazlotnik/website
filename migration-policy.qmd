@@ -5,7 +5,7 @@ page-layout: article
 
 
 
-**Next to my academic work, I occasionally contribute to or organise publications and events that inform policy-makers and broader audiences about migration research and current practices.** Between 2021 and 2024, I was the National Expert for Germany for the [Asylum Information Database](https://asylumineurope.org/). The Database is managed by the European Council on Refugees and Exiles (ECRE) and provides up-to-date information on asylum policy, law, and practice for researchers, advocates, legal practitioners, and the public. Before starting my PhD, I worked as a Research Associate for the European Migration Network, co-authoring studies on various aspects of migration and asylum policy in Germany.
+Next to my academic work, I occasionally contribute to or organise publications and events that inform policy-makers and broader audiences about migration research and current practices. Between 2021 and 2024, I was the National Expert for Germany for the [Asylum Information Database](https://asylumineurope.org/). The Database is managed by the European Council on Refugees and Exiles (ECRE) and provides up-to-date information on asylum policy, law, and practice for researchers, advocates, legal practitioners, and the public. Before starting my PhD, I worked as a Research Associate for the European Migration Network, co-authoring studies on various aspects of migration and asylum policy in Germany.
 
 ## AIDA Country Reports
 
@@ -15,6 +15,7 @@ page-layout: article
 
 ## Policy Publications
 
+- Philipp Stutz and Paula Hoffmeyer-Zlotnik (2026): [Hubs de retour : le nouveau mirage européen. Conférence Sciences Po](https://conference.sciencespo.fr/content/2026-04-03/hubs-de-retour-le-nouveau-mirage-europeen_yzR3Bdeod3q4n92YcZIz)
 - Judith Kohlenberger, Paula Hoffmeyer-Zlotnik, Lena Laube, Bernd Parusel and Daniele Saracino (2025). [Instrumentalisation of migration: Europe needs a strong and lawful response](https://www.delorscentre.eu/en/publications/detail/publication/instrumentalisation-of-migration). Policy Brief, Jacques Delors Centre. [Deutsche Version](https://www.delorscentre.eu/de/publikationen/detail/publication/instrumentalisierung-von-migration).
 - Lavenex, Sandra, Mariana Alvarado, Paula Hoffmeyer-Zlotnik, and Philipp Lutz (2025). ["Business Mobility as a Privileged Form of Temporary Labour Migration: Insights from the MITA Database and Switzerland."](https://doi.org/10.54394/TGOF6029) In *Temporary Labour Migration: Towards Social Justice?* International Labour Organization.
 

@@ -210,6 +210,13 @@ main { max-width: 960px; margin: 0 auto; padding: 1.2rem; }
     max-width: 100%;
     max-height: 220px;
   }
+  .portrait-float {
+    float: none;
+    display: block;
+    width: min(65vw, 240px);
+    max-width: 100%;
+    margin: 0 auto 1rem auto;
+  }
   .column img { width: 120px; }
   .banner-heading { font-size: 1.6rem; }
 }
