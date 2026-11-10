@@ -146,7 +146,7 @@ Hoffmeyer-Zlotnik, Paula, Sandra Lavenex, and Philipp Lutz (2023). ["Expanding, 
 
 ::: {.publication-item}
 <div class="publication-image">
-  <img src="assets/figures/banner-paper1.png" alt="Banner-based illustration 1" />
+  <img src="assets/figures/banner-paper1-blue-grey.png" alt="Banner-based illustration 1" />
 </div>
 <div class="publication-content">
 
@@ -157,7 +157,7 @@ Hoffmeyer-Zlotnik, Paula (2024). ["Perspectives of Flow and Place: Rethinking No
 
 ::: {.publication-item}
 <div class="publication-image">
-  <img src="assets/figures/banner-paper2.png" alt="Banner-based illustration 2" />
+  <img src="assets/figures/banner-paper2-blue-grey.png" alt="Banner-based illustration 2" />
 </div>
 <div class="publication-content">
 
