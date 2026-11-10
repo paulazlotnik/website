@@ -28,7 +28,7 @@ Hoffmeyer-Zlotnik, Paula and Philipp Stutz (2026). ["Changing Norms in EU Return
 
 ::: {.publication-item}
 <div class="publication-image">
-  <img src="assets/figures/limits-eu-1.png" alt="" />
+  <img src="assets/figures/limits.jpg" alt="" />
 </div>
 <div class="publication-content">
 
@@ -69,6 +69,17 @@ Rausis, Frowin, and Paula Hoffmeyer-Zlotnik (2021). ["Contagious Policies? Study
 ## Trade Agreements and Migration Governance
 
 <br>
+
+::: {.publication-item}
+<div class="publication-image">
+  <img src="assets/figures/11558_2026_9654_Fig3_HTML.webp" alt="" />
+</div>
+<div class="publication-content">
+
+Lutz, Philipp, Sandra Lavenex, and Paula Hoffmeyer-Zlotnik (2026). ["Trading migration? Explaining mobility provisions in preferential trade agreements."](https://doi.org/10.1007/s11558-026-09654-2) *The Review of International Organizations* (online first).
+
+</div>
+:::
 
 ::: {.publication-item}
 <div class="publication-image">
@@ -150,7 +161,6 @@ Hoffmeyer-Zlotnik, Paula (2024). ["Perspectives of Flow and Place: Rethinking No
 </div>
 <div class="publication-content">
 
-**What Is the Nexus between Migration and Mobility?**
 
 Piccoli, Lorenzo, Matteo Gianni, Didier Ruedin, Christin Achermann, Janine Dahinden, Paula Hoffmeyer-Zlotnik, Mihaela Nedelcu, and Tania Zittoun (2024). ["What Is the Nexus between Migration and Mobility? A Framework to Understand the Interplay between Different Ideal Types of Human Movement."](https://doi.org/10.1177/00380385241228836) *Sociology* (online first).
 
